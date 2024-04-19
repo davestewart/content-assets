@@ -1,0 +1,8 @@
+{
+  "name": "nuxt-content-assets",
+  "configKey": "contentAssets",
+  "compatibility": {
+    "nuxt": "^3.0.0"
+  },
+  "version": "1.4.3"
+}
